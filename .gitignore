@@ -1,0 +1,6 @@
+# Class file
+*.class
+# Instruction Documents
+*.docx
+/out/
+*.sh
